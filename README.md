@@ -5,7 +5,6 @@
     - South Region 
     - Same Day (shipment type)
     - Home Office (segment)
-    - Copiers, machines or any technology related item 
     - technology category 
     
  - These parameters can be improved by: 
