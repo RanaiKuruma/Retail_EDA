@@ -10,7 +10,7 @@
     
  - These parameters can be improved by: 
    - Running more marketing campaings 
-    - Run more surveys
+    - Running more surveys
     - Providing more discounts by 
         - Running flash sales 
         - Providing discount on major holidays
