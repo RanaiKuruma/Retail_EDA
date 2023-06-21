@@ -1,7 +1,7 @@
 # Retail EDA 
 
 - Perform Exploratory Data Analysis using EXCEL, SQL and Tableau to boost the sales of the company.
-- Focus on the following parameters to increase sales:
+- Parameters where the company is not generating enough sales: 
     - South Region 
     - Same Day (shipment type)
     - Home Office (segment)
