@@ -15,7 +15,7 @@
         - Running flash sales 
         - Providing discount on major holidays
         - Launch an affliate program to give discount on your products to boost sales. 
-        - Assign points on each purchase so that customers gain extra benefits.
+        - Assign points on each purchase so that customers can gain extra benefits.
    
    - You can have a look at the visualization at [Tableau](https://public.tableau.com/app/profile/ranai.kuruma/viz/Sales_Analysis_Dashboard_16867560744800/Retail_Dashboard) .
 
